@@ -1,2 +1,2 @@
 console.log("This is test file")
-console.log("This is the feature 1")
+console.error("This is the feature 2")
